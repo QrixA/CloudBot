@@ -9,10 +9,10 @@
         "NOWNER": {
             "description": "Nomer Owner",
             "required": true,
-            "value": "6281224863098"
+            "value": "628313612563"
         },
         "NAMAOWNER": {
-            "description": "Nama Owner",
+            "description": "QrixA",
             "required": true,
             "value": "Dellas"
         },
@@ -37,9 +37,9 @@
             "value": "Created by"
         },
         "AUTHOR": {
-            "description": "Author Bot (WM)",
+            "description": "QrixA",
             "required": true,
-            "value": "CloudBot"
+            "value": "QrixABot"
         },
         "MODERATOR": {
             "description": "Moderator Bot",
@@ -52,7 +52,7 @@
             "value": "https://telegra.ph/file/baea4ead668adebdc5073.jpg"
         },
         "DONASI": {
-            "description": "Nomer Owner",
+            "description": "628313612563",
             "required": true,
             "value": "https://saweria.co/itsmedell"
         }
