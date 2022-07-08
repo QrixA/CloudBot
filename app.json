@@ -7,9 +7,9 @@
   "stack": "container",
   "env": {
         "NOWNER": {
-            "description": "Nomer Owner",
+            "description": "6283136125635",
             "required": true,
-            "value": "628313612563"
+            "value": "6283136125635"
         },
         "NAMAOWNER": {
             "description": "QrixA",
